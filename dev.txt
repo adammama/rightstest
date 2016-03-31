@@ -3,4 +3,7 @@ dev
 master add new line
 
 abc$$$$$$$$$$$$$$$$$$$$$$$$
+newline
+
+
 
